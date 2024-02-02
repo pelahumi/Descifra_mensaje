@@ -21,3 +21,5 @@ $$
   clave = alph[-alph.index(letra)-1]
 \end{aligned}
 $$
+
+Siendo alph la lista con todas las letras del alfabeto, Esta línea se repite con todas las letras de la palabra que queremos descifrar hasta obtener el mensaje cifrado
