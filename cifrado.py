@@ -1,6 +1,6 @@
 alph = ["a","b","c","d","e","f","g","h","i","j","k","l","m","n","ñ","o","p","q","r","s","t","u","v","w","x","y","z"]
 
-def cifrar(palabra):
+def cifrado_espejo(palabra):
     palabra = palabra.lower()
     cifrado = ""
     for letra in palabra:
@@ -10,5 +10,5 @@ def cifrar(palabra):
             cifrado += letra
     return cifrado
 
-print(cifrar("GSVUOZTRHHZBDVINXIZAB"))
+print(cifrado_espejo("GSVUOZTRHHZBDVINXIZAB"))
 
