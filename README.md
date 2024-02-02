@@ -1,6 +1,6 @@
 # Descifra_mensaje
 
-GSVUOZTRHHZBDVINXIZAB
+[Pincha aqui para acceder al link de este repositorio](https://github.com/pelahumi/Descifra_mensaje.git)
 
 ---
 
