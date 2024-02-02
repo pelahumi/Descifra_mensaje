@@ -18,8 +18,7 @@ En primer lugar creamos una lista con todas las letras del alfabeto, a las cuale
 
 $$
 \begin{aligned}
-  clave = alph[-alph.index(letra)-1]
+  a_{i} = a_{n-i} && \text{i=es el índice de la letra, n=la longitud de la lista}
 \end{aligned}
 $$
 
-Siendo alph la lista con todas las letras del alfabeto, Esta línea se repite con todas las letras de la palabra que queremos descifrar hasta obtener el mensaje cifrado
